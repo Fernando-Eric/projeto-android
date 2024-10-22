@@ -128,13 +128,13 @@ main a:hover {
 }
 
 main img {
-    max-width: 600px;
+    max-width: 300px;
     display: block;
     margin: auto;
 }
 
 main > article > img.pequena {
-    max-width: 350px;
+    max-width: 200px;
     display: block;
     margin: auto;
 }
